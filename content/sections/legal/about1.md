@@ -1,7 +1,7 @@
 ---
 sectionId: about1
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: ""
+imageAlt: "About Me"
 skills:
   - Programming Languages: Java, Python, C++, HTML, CSS/Sass, GraphQL
   - Libraries and Frameworks: jQuery, React, Gatsby, Scrollfire, Node.js, Express, Bootstrap
