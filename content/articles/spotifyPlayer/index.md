@@ -3,7 +3,7 @@ title: "Spotify Record Player"
 description: "Spotify record player using RFID cards."
 date: "2025-01-19"
 banner:
- src: "../../images/recordplayer.webp"
+ src: "../../images/spotifyplayer.png"
  alt: "Spotify Record Player"
  caption: ''
 categories:
