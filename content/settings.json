@@ -6,10 +6,10 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A portfolio to showcase my creations.",
     "author": "Mohammed Chauhan",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/MZC.png",
     "bio": "Junior Software Developer",
     "social": {
-      "behance": "https://behance.com",
+      "behance": "",
       "github": "https://github.com/moavern",
       "medium": "",
       "linkedin": "https://www.linkedin.com/in/mohammedchauhan",
@@ -33,8 +33,7 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { }
       ]
     },
     "featureToggles": {
