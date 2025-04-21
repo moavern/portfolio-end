@@ -16,14 +16,8 @@ keywords:
   - "Blog"
 ---
 
-<div align="center">
-  <img src="https://financial-analyzer.web.app/static/logo-62f92052756e5545d7a0d9af525b76b6.png" 
-       width="200px"
-       height="200px"/>
-  <h1>CrowdAdvisor</h1>
-  <h2>Investment in the Age of Social Media</h3>
-  <h3>Live Site: https://financial-analyzer.web.app/</h3>
-</div>
+### [Live Site](https://financial-analyzer.web.app/)
+
 
 ## Inspiration
 People are involved in the stock markets and social media more than ever. That's why I created a resource that fuses both worlds to provide investors with information that presents the market with the sentiment from social media.
