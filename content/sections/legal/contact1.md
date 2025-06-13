@@ -1,7 +1,7 @@
 ---
 sectionId: contact1
 title: "Contact Me"
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: ""
 imageAlt: "Contact Image"
 ---
 
