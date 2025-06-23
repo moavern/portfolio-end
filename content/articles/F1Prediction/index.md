@@ -1,3 +1,20 @@
+---
+title: "F1 Prediction"
+description: "This project uses the FastF1 API and machine learning to predict whether Formula 1 drivers will finish in the top 10 based on qualifying performance and race data. It explores various data scenarios and driver groups using decision tree models. The goal is to analyze racing outcomes and experiment with predictive modeling techniques."
+date: "2025-04-14"
+banner:
+  src: "../../images/f1.png"
+  alt: ""
+  caption: ''
+categories:
+  - "Python"
+keywords:
+  - "Machine Learning"
+  - "Blog"
+---
+
+
+
 
 # 🏎️ F1 Race Results Prediction with FastF1 + scikit-learn
 
