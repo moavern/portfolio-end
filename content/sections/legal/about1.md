@@ -19,7 +19,7 @@ My name is Mohammed Chauhan and I’m a junior software developer. I studied at 
 - **AI & Machine Learning:** TensorFlow, PyTorch, OpenCV
 - **Tools & Platforms:** Git, Git Bash, AWS, Laserfiche
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Design** Sketch, Figma, Affinity Photo, Photoshop
+- **Design:** Sketch, Figma, Affinity Photo, Photoshop
 
 ### Certifications:
 - [**Amazon Junior Software Developer**](/Cert1.pdf)
