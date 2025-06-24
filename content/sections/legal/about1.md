@@ -22,5 +22,6 @@ My name is Mohammed Chauhan and I’m a junior software developer. I studied at 
 - **Design:** Sketch, Figma, Photoshop
 
 ### Certifications:
-- [**Amazon Junior Software Developer**](/Cert1.pdf)
+- <a href="/Cert1.pdf" target="_blank" rel="noopener noreferrer"><strong>Amazon Junior Software Developer</strong></a>
+
 
